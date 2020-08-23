@@ -7,7 +7,7 @@ base 定义了2个函数：
 
 add 
 #把结构相同的n个dataframe加在一起（行列索引相同的元素进行求和）
-#注意最开始的df不能为空的Dataframe
+#注意最开始的df不能为空的Dataframe，可以从待求和的表格中随机选择一个
 
 city-74
 #根据指定的时间段匹配相应的污染物数据
@@ -86,7 +86,7 @@ vel_stat
 #基于于matplotlib.pyplot绘制直方图
 
 wlq-scat
-#绘制多个散点图,不够友好
+#muti pannel绘制多个散点图
 
 
 
