@@ -86,7 +86,7 @@ vel_stat
 #基于于matplotlib.pyplot绘制直方图
 
 wlq-scat
-#WLQ 绘制多个散点图,不够右好
+#绘制多个散点图,不够友好
 
 
 
